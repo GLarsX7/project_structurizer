@@ -1,0 +1,22 @@
+├── build/
+│   └── main/
+│       ├── Analysis-00.toc
+│       ├── EXE-00.toc
+│       ├── PKG-00.toc
+│       ├── PYZ-00.pyz
+│       ├── PYZ-00.toc
+│       ├── base_library.zip
+│       ├── localpycs/
+│       │   ├── pyimod01_archive.pyc
+│       │   ├── pyimod02_importers.pyc
+│       │   ├── pyimod03_ctypes.pyc
+│       │   ├── pyimod04_pywin32.pyc
+│       │   └── struct.pyc
+│       ├── main.pkg
+│       ├── warn-main.txt
+│       └── xref-main.html
+├── dist/
+│   └── structure_gender.exe
+├── main.py
+├── main.spec
+└── structure.txt

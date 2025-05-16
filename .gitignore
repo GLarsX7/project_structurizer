@@ -1,0 +1,6 @@
+#Ignore build archives
+build/
+dist/
+
+#Ignore base archives
+main.spec
